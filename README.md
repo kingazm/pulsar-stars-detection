@@ -49,3 +49,5 @@ The model demonstrates strong performance, especially on F1-Score (88.79%) and R
 <img width="1390" height="490" alt="image" src="https://github.com/user-attachments/assets/d7bbf1fe-66c4-4144-9a98-aec7b36aa88a" />
 
 *Originally developed in Google Colab environment.*
+
+Authors: Kinga Żmuda (@kingazm), Wiktor Godyń (@Budyn13441)
